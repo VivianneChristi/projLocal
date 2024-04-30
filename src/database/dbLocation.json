@@ -1,0 +1,42 @@
+[
+    {
+        "nome": "São Paulo",
+        "sigla": "SP",
+        "bairro": "Lapa"
+    },
+    {
+        "nome": "Rio Grande do Sul",
+        "sigla": "RS",
+        "bairro": "Pelotas"
+    },
+    {
+        "nome": "Santa Catarina",
+        "sigla": "SC",
+        "bairro": "Monte Castelo"
+    },
+    {
+        "nome": "Sls",
+        "latitude": "222",
+        "longitude": "333"
+    },
+    {
+        "nome": "SAÃAA",
+        "latitude": "33333",
+        "longitude": "44444"
+    },
+    {
+        "nome": "Am",
+        "sigla": "aaa",
+        "bairro": "aaa"
+    },
+    {
+        "nome": "Ama",
+        "sigla": "aaa2",
+        "bairro": "aaa2"
+    },
+    {
+        "nome": "Ama1",
+        "sigla": "aaa21",
+        "bairro": "aaa21"
+    }
+]

@@ -1,0 +1,27 @@
+<%- include('partials/header') %>
+
+<div class="container">
+    <form class="form" method="POST" action="/newContact">
+        <p class="title">Cadastro de Localização</p>
+    
+        <label>
+            <input class="input" type="text" placeholder="" required="" name="nome">
+            <span>Nome do estado</span>
+        </label>
+    
+        <label>
+            <input class="input" type="text" placeholder="" required="" name="sigla">
+            <span>Sigla</span> 
+        </label>
+    
+        <label>
+            <input class="input" type="text" placeholder="" required="" name="bairro">
+            <span>Bairro</span> 
+        </label>
+    
+        <button class="submit">Enviar</button> 
+    </form>
+    
+</div>
+
+<%- include('partials/footer') %>
